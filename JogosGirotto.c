@@ -8,7 +8,7 @@ int main() {
     char continuar;
 
     while (1) {
-        system("cls"); // Troque por "clear" se for Linux/Mac
+        system("cls");
         printf("=== MENU DE JOGOS ===\n");
         printf("1 - Perguntas e Respostas\n");
         printf("2 - Cobra na Caixa\n");
