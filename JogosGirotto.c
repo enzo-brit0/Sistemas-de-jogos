@@ -209,7 +209,7 @@ int main() {
                     printf("\n");
 
                     printf("\nVez do Jogador %d\n", turno);
-                    printf("1 - Atacar | 2 - Dividir  ");
+                    printf("1 - Atacar ou 2 - Dividir  ");
                     scanf("%d", &escolha);
 
                     if (escolha == 1) {
