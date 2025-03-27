@@ -8,7 +8,7 @@ dizendo se ele acertou ou errou a pergunta.
 
 3.Goumas War - Este jogo consiste em 2 jogadores onde cada um tem 2 Gousmas e o objetivo do jogo e destruir as Gousmas do seu oponente, e para fazer isso voçê deve fazer com que a Gousma fique com mais de 5 de fúria, causando a destruição da mesma. Caso um do jogadores perca uma Gousma ele tem a opção de dividir a fúria da sua Gousma e criar uma nova.
 
-Para fazer esses jogos nós usamos a inteligência artificial "Grok 3". Segue os links das conversas:
+Para fazer esses jogos nós usamos a inteligência artificial "Grok". Segue os links das conversas:
 https://grok.com/share/bGVnYWN5_88b625c1-a4af-4aae-a5b5-a3fe168fa9bf
 https://grok.com/share/bGVnYWN5_713b168d-1f5e-449d-af20-ff501ff0b589
 https://grok.com/share/bGVnYWN5_afab768c-b562-4405-8a0f-4a131e4ce257
