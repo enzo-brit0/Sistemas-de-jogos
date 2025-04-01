@@ -85,7 +85,7 @@ int main() {
 
         if (opcao == 2) {
             char *nomes[7] = {"Ashe", "Will", "Jeff", "Isis", "Rita", "Coby", "Rick"};
-            char nome_jogador1[20], nome_jogador2[20];
+            char nome_jogador1[5], nome_jogador2[5];
             int caixas[5];
             int jogador_atual, escolha, jogo_rodando = 1, escolha_j1, escolha_j2;
             int posicao_botao, posicao_cobra;
