@@ -23,8 +23,8 @@ int main() {
             while (1) {
                 system("cls");
                 printf("Bem vindo ao jogo Perguntas e Respostas\n");
-                printf("Responda apenas com a, b, c, d\n"
-                printf("Vamos para a primeira pergunta.\n");
+                printf("\nResponda apenas com a, b, c, d\n"
+                printf("\nVamos para a primeira pergunta.\n");
                 printf("Qual e o unico mamifero capaz de voar de forma sustentada?\n");
                 printf("a) Pinguim  b) Morcego  c) Esquilo-voador  d) Pterodactilo\n");
                 printf("Sua resposta: ");
