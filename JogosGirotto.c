@@ -22,16 +22,17 @@ int main() {
             char jogar_novamente;
             while (1) {
                 system("cls");
-                printf("\nBem vindo ao jogo Perguntas e Respostas");
-                printf("\nVamos para a primeira pergunta.\n");
-                printf("\nQual e o unico mamifero capaz de voar de forma sustentada?\n");
+                printf("Bem vindo ao jogo Perguntas e Respostas\n");
+                printf("Responda apenas com a, b, c, d\n"
+                printf("Vamos para a primeira pergunta.\n");
+                printf("Qual e o unico mamifero capaz de voar de forma sustentada?\n");
                 printf("a) Pinguim  b) Morcego  c) Esquilo-voador  d) Pterodactilo\n");
                 printf("Sua resposta: ");
                 scanf(" %c", &resposta);
                 if (resposta == 'b') {
-                    printf("\nResposta correta!\n");
+                    printf("Resposta correta!\n");
                 } else {
-                    printf("\nIncorreta! A resposta correta: b) Morcego\n");
+                    printf("Incorreta! A resposta correta: b) Morcego\n");
                 }
 
                 printf("\nQual e o numero aproximado de ossos no corpo humano adulto?\n");
